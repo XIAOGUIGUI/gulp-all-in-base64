@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-html-css-js-base64": "^0.0.3"
+  }
+}

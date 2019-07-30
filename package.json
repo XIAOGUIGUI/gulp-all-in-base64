@@ -1,0 +1,36 @@
+{
+  "name": "gulp-into-base64",
+  "version": "0.1.0",
+  "description": "将CSS文件中的图片url/字体url转为base64,自己配置正则表达式，将html、js等其他格式文件中的图片/MP3/字体转为base64.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XIAOGUIGUI/gulp-into-base64.git"
+  },
+  "keywords": [
+    "gulp4",
+    "gulp",
+    "html",
+    "css",
+    "js",
+    "base64",
+    "image",
+    "img",
+    "pic"
+  ],
+  "author": {
+    "name": "xiaoguigui",
+    "email": "625094674@qq.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XIAOGUIGUI/gulp-into-base64/issues"
+  },
+  "homepage": "https://github.com/XIAOGUIGUI/gulp-into-base64#readme",
+  "devDependencies": {
+    "through2": "^3.0.0"
+  }
+}
