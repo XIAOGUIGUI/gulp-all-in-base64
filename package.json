@@ -1,6 +1,6 @@
 {
   "name": "gulp-into-base64",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "将CSS文件中的图片url/字体url转为base64,自己配置正则表达式，将html、js等其他格式文件中的图片/MP3/字体转为base64.",
   "main": "index.js",
   "scripts": {
